@@ -12,7 +12,6 @@
 
 <ul>
 <li>dados.pbi</li>
-<li>dash_vacinados_brasil.pdf</li>
 <li><a href="https://github.com/carlospaest/vacinados/blob/master/Vacinados/dash_vacinados_brasil.pdf">Dashboard Vacinados no Brasil</a></li>
 </ul>
 
