@@ -15,4 +15,3 @@
 </ul>
 
 
-https://app.powerbi.com/links/a64jQqCuIW?ctid=c4d3e84a-980a-438c-ab5e-bed169fd6a96&pbi_source=linkShare
